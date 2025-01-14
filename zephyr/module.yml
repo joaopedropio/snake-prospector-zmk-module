@@ -1,0 +1,7 @@
+name: snake-prosepector-zmk-module
+build:
+  kconfig: Kconfig
+  settings:
+    board_root: .
+  depends:
+    - lvgl

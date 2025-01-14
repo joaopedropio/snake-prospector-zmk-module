@@ -1,0 +1,2 @@
+config SHIELD_SNAKE_PROSPECTOR_ADAPTER
+    def_bool $(shields_list_contains,snake_prospector_adapter)
